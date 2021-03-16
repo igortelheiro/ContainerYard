@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/FATEC_3_SEM/ContainerYard/main.cpp
+iostream
+-
+yard.h
+D:/Projects/FATEC_3_SEM/ContainerYard/yard.h
+
+D:/Projects/FATEC_3_SEM/ContainerYard/yard.h
+iostream
+-
+string
+-
+cstdlib
+-
+
